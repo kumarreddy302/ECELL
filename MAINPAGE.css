@@ -1,0 +1,55 @@
+body{
+    background-color: #A2D2FF;
+}
+    HR {
+        width: 45%;
+        border-style: none;
+        border-bottom: dotted;
+        border-width: 5PX;
+        
+
+    }
+H1{
+    font-family: 'Roboto Slab', serif;
+}
+H2{
+    font-family: 'Noto Serif', serif;
+    font-size: large;
+    padding: 0% 20% 0% 20%;
+}
+STRONG{
+    font-family: 'EB Garamond', serif; 
+    font-size: large; 
+}
+P{
+    font-family: 'Arvo', serif;
+    padding: 0% 20% 0% 20%;
+}
+ul{
+    padding: 0% 20% 0% 20%;
+}
+.tab{
+    position: relative;
+    left: 80%;
+    
+}
+a{
+    text-decoration: none;
+    font-family: 'Merriweather', serif;
+    color: RED;
+}
+#TABH{
+    font-family: 'Fredoka One', cursive;
+}
+.ONEA{
+    font-family: 'Carter One', cursive;
+}
+.ONEB{
+    font-family: 'Staatliches', cursive;
+}
+.ONEC{
+    font-family: 'Arvo', serif;
+}
+.ONED{
+    font-family: 'Acme', sans-serif;
+}
